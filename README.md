@@ -1,4 +1,5 @@
 # Python Programming Tutorials
+A collection of python programming tutorials. 
 
 https://pythonspot.com/ <br>
 https://www.codementor.io/python/tutorial <br>
